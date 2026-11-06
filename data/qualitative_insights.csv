@@ -1,0 +1,52 @@
+insight_id,participant_id,task_name,severity,issue_description,user_quote
+I001,P002,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",Why would a banking application intentionally disable standard copy-paste features?
+I002,P002,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,"The flash doesn't turn on, so in the evening nothing gets scanned."
+I003,P003,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.","I copied this right from my email, why does the paste option block me?"
+I004,P003,3. Bill Pay,Minor,Future-dated schedule selector wheel used ambiguous system labels.,Confusing calendar icons make it impossible to tell what day is picked.
+I005,P004,2. Send Money,Minor,Beneficiary name character limit cut off long business names without warning.,"The name of my supplier won't fit here, it keeps cutting off the last words."
+I006,P004,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,The scan frame is too small for the barcode on my utility bill.
+I007,P007,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,I moved the paper around three times and the camera never focused on the code.
+I008,P008,1. Biometric Login,Critical,FaceID prompt timed out and fallback passcode fields were hidden entirely by the UI overlay.,The face scan failed and I couldn't find any way to enter my passcode instead.
+I009,P008,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",Trying to quickly paste the numerical field string from my mobile notes fails.
+I010,P009,1. Biometric Login,Critical,FaceID prompt timed out and fallback passcode fields were hidden entirely by the UI overlay.,It just keeps scanning my face over and over but no keypad option appears.
+I011,P009,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",The field rejected my IBAN and I couldn't tell which character it didn't like.
+I012,P010,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",Why can't the app just ignore the spaces? Every other bank does.
+I013,P010,3. Bill Pay,Minor,Future-dated schedule selector wheel used ambiguous system labels.,The schedule date menu design is highly ambiguous for transaction tracking.
+I014,P012,1. Biometric Login,Critical,FaceID prompt timed out and fallback passcode fields were hidden entirely by the UI overlay.,The prompt disappears after a few seconds and the PIN option is hidden behind it.
+I015,P012,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",I'm trying to paste the transaction details but the field is completely locked out.
+I016,P012,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,Invoice scanning component stays completely blurry under indoor lights.
+I017,P013,1. Biometric Login,Critical,FaceID prompt timed out and fallback passcode fields were hidden entirely by the UI overlay.,The security window timed out and left me stranded on a blank login page.
+I018,P013,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",I had to delete every space by hand before it would accept the account number.
+I019,P013,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,I am holding my bill right under the lamp and the camera still won't capture it.
+I020,P015,2. Send Money,Minor,Beneficiary name character limit cut off long business names without warning.,"The vendor name field won't fit the full company name, it cuts off the last word."
+I021,P017,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",It won't let me paste the routing number. I don't want to type 20 digits manually.
+I022,P019,3. Bill Pay,Minor,Future-dated schedule selector wheel used ambiguous system labels.,I'm trying to schedule a payment for next Friday but the visual confirmation is unclear.
+I023,P020,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,The scanner works near the window but not at my kitchen table.
+I024,P021,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.","Copying the account number from the PDF invoice didn't work, the field stayed empty."
+I025,P021,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,The document capture system hangs indefinitely during camera scanning.
+I026,P022,3. Bill Pay,Minor,Future-dated schedule selector wheel used ambiguous system labels.,The interface text is highly ambiguous for business transaction settings.
+I027,P023,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,"I've been trying to frame this invoice for two minutes, it just stays blurry."
+I028,P024,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",I typed the IBAN exactly as printed on the invoice and it was rejected.
+I029,P024,3. Bill Pay,Minor,Future-dated schedule selector wheel used ambiguous system labels.,I wasn't sure if the payment would leave today or on the date I selected.
+I030,P025,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,I'm holding the invoice right under my desk light and it still won't read it.
+I031,P026,1. Biometric Login,Critical,FaceID prompt timed out and fallback passcode fields were hidden entirely by the UI overlay.,The face scanner prompt just vanished and it won't let me type my PIN code.
+I032,P027,2. Send Money,Minor,Beneficiary name character limit cut off long business names without warning.,It stops letting me type mid-sentence because the character limit is way too short.
+I033,P028,3. Bill Pay,Minor,Future-dated schedule selector wheel used ambiguous system labels.,Does 'Execute Next Business Cycle' mean tomorrow morning or next Monday?
+I034,P029,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.","Rejects pasted numbers, making me type out long routing strings manually."
+I035,P029,3. Bill Pay,Minor,Future-dated schedule selector wheel used ambiguous system labels.,"The calendar picker layout is super confusing, I can't tell which date is highlighted."
+I036,P031,2. Send Money,Minor,Beneficiary name character limit cut off long business names without warning.,I had to abbreviate the official corporate supplier name to fit this input box.
+I037,P031,3. Bill Pay,Minor,Future-dated schedule selector wheel used ambiguous system labels.,I checked the drop down calendar wheel but it moves way too fast to isolate a date.
+I038,P032,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.","I gave up pasting and typed the whole IBAN one character at a time, very error-prone."
+I039,P034,1. Biometric Login,Critical,FaceID prompt timed out and fallback passcode fields were hidden entirely by the UI overlay.,The biometric window timed out and left me stranded with no input fields.
+I040,P034,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",I am trying to move bank transfer data via clipboard but it blocks it.
+I041,P034,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,The scanner line just hovers over the barcode but nothing actually registers.
+I042,P035,1. Biometric Login,Critical,FaceID prompt timed out and fallback passcode fields were hidden entirely by the UI overlay.,"After the timeout the passcode box never showed up, I had to close the app."
+I043,P035,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",Every single time I try to copy-paste my long vendor billing digits it fails.
+I044,P036,1. Biometric Login,Critical,FaceID prompt timed out and fallback passcode fields were hidden entirely by the UI overlay.,"I was stuck on the Face ID screen, there was no button to use my PIN."
+I045,P036,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.","The IBAN has spaces in it and the app just says invalid, I don't see why."
+I046,P036,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,The camera scanner keeps looping and won't capture the bill barcode layout.
+I047,P037,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",This text box is completely blocking my device clipboard.
+I048,P037,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,I tried scanning twice and it just froze on a black screen.
+I049,P039,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.",The error message doesn't tell me what is wrong with the IBAN I entered.
+I050,P039,3. Bill Pay,Critical,Barcode scanner component failed under ambient indoor room lighting parameters.,"It couldn't read the barcode at all, so I had to type the payment code by hand."
+I051,P040,2. Send Money,Critical,"IBAN formatting strictly prohibited pasted strings with spaces, leading to input failures.","Pasting the IBAN from my banking email gave me an error, so I retyped it twice."
