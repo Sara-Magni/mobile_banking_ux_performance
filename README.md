@@ -72,7 +72,7 @@ KPI cards against targets, issue severity by task, workflow performance (total e
 
 - Simulated data and a small sample (n = 40), so the intervals are wide.
 - The confidence interval uses a normal approximation; a t-distribution would be slightly wider (about ±6.5).
-- Targets and baselines (95%, 85%, 80%, fewer than 5 critical issues) and the SUS benchmark of 73.0 are reference values for this project. [Add the source of the benchmark.]
+- Targets and baselines (95%, 85%, 80%, fewer than 5 critical issues) and the SUS benchmark of 73.0 are reference values for this project.
 - Correlation between errors and time does not prove that errors cause the longer times.
 - The user quotes are simulated and written to match each issue type.
 
